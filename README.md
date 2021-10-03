@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/90495133/135744844-39c6d1d1-1353-4262-86e0-6a5f4ca4f508.png)
 
 # fun-with-triangle
 This is a vanilla Js web-app.
